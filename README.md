@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Inline-style: 
-![alt text](https://github.com/emad948/TODO/blob/main/Demo.MOV "Logo Title Text 1")
+![](demogif.gif)
 
 
 ## Available Scripts
