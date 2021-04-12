@@ -26,7 +26,8 @@ Project is created with:
 
 - React
 - HTMl/CSS
--FIREBASE
+- FIREBASE
+- ui-material
 
 ## Features
 - Create a task
